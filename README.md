@@ -3,4 +3,4 @@
 | **NIM**       | **NAMA**                  |
 |---------------|---------------------------|
 | 2311110008    | ROSA NUR ALIANA SAWAFI    |
-| 2311110049    | ARDELIA RACHMA LAKSITA    |
+| 2311110051    | ARDELIA RACHMA LAKSITA    |
