@@ -1,4 +1,4 @@
-#Analisis dan Perbandingan Algoritma Bubble Sort dan Merge Sort (Iteratif dan Rekursif) dalam Pengurutan Data Historis Suhu pada Aplikasi Cuaca
+# Analisis dan Perbandingan Algoritma Bubble Sort dan Merge Sort (Iteratif dan Rekursif) dalam Pengurutan Data Historis Suhu pada Aplikasi Cuaca
 
 | **NIM**       | **NAMA**                  |
 |---------------|---------------------------|
